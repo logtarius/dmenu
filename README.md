@@ -1,10 +1,9 @@
 # dmenu Arc
 
-This is my configuration of [dmenu-flexipatch](https://github.com/bakkeby/dmenu-flexipatch) with a bunch of patches enabled.
 
 ## Preview
 
-![Preview of dmenu](https://raw.githubusercontent.com/Zaedus/dmenu-arc/master/preview.png)
+![Preview of dmenu](./preview.png)
 
 ## General Info
 
@@ -32,3 +31,6 @@ To modify this, I highly recommend reading the [https://github.com/bakkeby/dwm-f
 ### Things to Know Before Editing
 
 - I edited the `config.def.h` which means you should run `make` and then edit the `config.h`
+
+
+**refer to github@ayamir**
