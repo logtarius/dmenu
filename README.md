@@ -1,4 +1,4 @@
-# dmenu Arc
+# dmenu Arch
 
 
 ## Preview
